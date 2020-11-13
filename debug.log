@@ -1,0 +1,6 @@
+[1111/212643.704:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Meliscik\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\02ad6132-7375-4871-a6d2-be9fc0d42db0: The system cannot find the path specified. (0x3)
+[1111/212643.705:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Meliscik\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\04a0d032-2e8a-41b8-a949-9145408dd33f: The system cannot find the path specified. (0x3)
+[1111/212643.707:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Meliscik\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\13d5730e-4758-4752-bc90-31347e6aba84: The system cannot find the path specified. (0x3)
+[1111/212643.709:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Meliscik\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\59877fd0-0f7e-4a26-b14b-6ff77571f8f6: The system cannot find the path specified. (0x3)
+[1111/212643.715:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Meliscik\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\d463c03d-308f-4c62-b2e5-277c95c77bb7: The system cannot find the path specified. (0x3)
+[1111/212643.717:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
